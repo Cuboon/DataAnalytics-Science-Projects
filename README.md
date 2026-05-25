@@ -1,4 +1,4 @@
-📊 IBM Data Science Professional Certificate — Project Portfolio
+📊 IBM Data Science/Analytics Professional Certificate — Project Portfolio
 
 > **Platform:** Coursera &nbsp;|&nbsp; **Provider:** IBM &nbsp;|&nbsp; **Language:** Python (Jupyter Notebooks)
 
